@@ -1,4 +1,4 @@
-namespace personaje
+namespace pje
 {
     public enum tipo
     {
